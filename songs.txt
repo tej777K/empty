@@ -1,4 +1,0 @@
-hklog = ABBA 
-ghsong = ABBA
-thoda = ABBA 
-hukum + ABBA
